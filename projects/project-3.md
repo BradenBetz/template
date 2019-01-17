@@ -1,15 +1,14 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+image: 
+title: 
+permalink: 
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date:
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+
+summary: 
 ---
 
 

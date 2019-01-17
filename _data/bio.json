@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Braden Betz",
+    "name": "Molly Maluhia",
     "label": "Student",
-    "picture": "https://raw.githubusercontent.com/bradenbetz/bradenbetz.github.io/master/we.jpg",
-    "email": "bradenb@hawaii.edu",
-    "phone": "808-237-9853",
+    "picture": "https://techfolios.github.io/template/images/molly.png",
+    "email": "molly@hawaii.edu",
+    "phone": "808-333-4444",
     "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2021.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -17,41 +17,41 @@
     "profiles": [
       {
         "network": "github",
-        "username": "bradenbetz",
+        "username": "mmaluhia",
         "url": "http://github.com/changeme"
       },
       {
         "network": "linkedin",
-        "username": "bradenbetz",
+        "username": "mollymaluhia",
         "url": "http://linkedin.com/in/changeme"
       },
       {
-        "network": "",
-        "username": "",
-        "url": ""
+        "network": "twitter",
+        "username": "mollymal",
+        "url": "http://twitter.com/changeme"
       },
       {
-        "network": "",
-        "username": "",
-        "url": ""
+        "network": "instagram",
+        "username": "molly",
+        "url": "http://instagram.com/changeme"
       }
     ]
   },
   "interests": [
     {
-      "name": "Software Engineering",
+      "name": "internet of things",
       "keywords": [
-        "Defense Contracting",
-        "Booz Alan Hamilton"
+        "Arduino",
+        "TI MSP430"
       ]
     },
     {
-      "name": "Defense Contracting",
+      "name": "data mining",
       "keywords": [
       ]
     },
     {
-      "name": "Artificial Intelligence",
+      "name": "artificial intelligence",
       "keywords": [
       ]
     }
@@ -64,7 +64,9 @@
         "C",
         "C++",
         "Java",
-        "Javascript (Learning)"
+        "Javascript",
+        "Assembly",
+        "Common Lisp"
       ]
     },
     {
@@ -72,9 +74,10 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Unix",
+        "Ubuntu",
         "Git/GitHub",
-        "g++/gcc",
+        "g++",
+        "TI LaunchPad"
       ]
     }
   ],

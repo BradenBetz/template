@@ -29,19 +29,19 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Software Engineering",
       "keywords": [
         "Arduino",
         "TI MSP430"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Defense Contracting",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Artificial Intelligence",
       "keywords": [
       ]
     }
@@ -54,9 +54,7 @@
         "C",
         "C++",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Javascript (Learning",
       ]
     },
     {
@@ -64,29 +62,33 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
+        "Unix",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "g++/gcc",
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Computer Science (expected Fall, 2019)",
+      "studyType": "B.A.",
+      "startDate": "2017-08-21",
       "endDate": "Present",
-      "gpa": "",
-      "courses": [
+      "gpa": "3.25",
+      "courses":[
+        "ICS 314"
+        "ICS 321"
+        "MATH 140"
+        "CLAS 122"
+        "SPAN 201"
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Mililani Town Association",
+      "position": "Lifeguard",
       "website": "",
       "startDate": "2015-08-01",
       "endDate": "Present",

@@ -28,10 +28,7 @@
 	},
 	"interests": [{
 			"name": "Software Engineering",
-			"keywords": [
-				"Arduino",
-				"TI MSP430"
-			]
+			"keywords": []
 		},
 		{
 			"name": "Defense Contracting",
@@ -84,7 +81,7 @@
 		"website": "https://www.mililanitown.org/",
 		"startDate": "2016-03-13",
 		"endDate": "2018-07-28",
-		"summary": "I was tasked with keeping pool patrons safe, while maintaining a Lifeguard skillset and a professional attitude towards the job"
+		"summary": "I was tasked with keeping pool patrons safe, while maintaining a Lifeguard skillset and a professional attitude on the pool deck."
 	}],
 	"awards": [{
 		"title": "Eagle Scout",

@@ -2,7 +2,7 @@
   "basics": {
     "name": "Braden Betz",
     "label": "Student",
-    "picture": "bradenbetz.github.io/we.jpg",
+    "picture": "bradenbetz.github.io/ProfilePic.jpg",
     "email": "bradenb@hawaii.edu",
     "phone": "808-237-9853",
     "website": "https://bradenbetz.github.io",
@@ -89,25 +89,25 @@
     {
       "company": "Mililani Town Association",
       "position": "Lifeguard",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+      "website": "https://www.mililanitown.org/",
+      "startDate": "2016-03-12",
+      "endDate": "2018-07-30",
+      "summary": "I was a pool lifeguard, overseeing patrons while keeping them safe and enforcing the pool rules and regulations, while maintaining a professional attitude and keeping my skills as a lifeguard up to date",
+      "": [
+        ""
+        ""
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+      "" ""
+      "" ""
+      "" ""
+      "" ""
+      "" ""
+      "" ""
+      "" [
+        ""
+        ""
       ]
     }
   ],

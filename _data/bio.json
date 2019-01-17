@@ -81,21 +81,16 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Fall, 2021)",
-      "studyType": "B.A.",
-      "startDate": "2017-08-01-21-",
+      "area": "Computer Science (expected Spring, 2018)",
+      "studyType": "B.S.",
+      "startDate": "2013-09-01",
       "endDate": "Present",
-      "gpa": "3.25",
+      "gpa": "",
       "courses": [
-        "ICS 314"
-        "ICS 321"
-        "MATH 140"
-        "CLAS 122"
-        "SPAN 201
       ]
     }
   ],
-   "work": [
+  "work": [
     {
       "company": "UH Manoa Board of Publications",
       "position": "Web Developer",

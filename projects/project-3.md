@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: 
-title: 
+title: Eagle Scout Project
 permalink: 
 # All dates must be YYYY-MM-DD format!
 date:

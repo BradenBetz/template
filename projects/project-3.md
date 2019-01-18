@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: bradenbetz.github.io/Project3.jpg     
 title: Eagle Scout Project
 permalink: 
 # All dates must be YYYY-MM-DD format!

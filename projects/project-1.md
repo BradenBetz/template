@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: bradenbetz.github.io/Screen Shot 2019-01-17 at 5.16.53 PM.png     
+image: bradenbetz.github.io/Project1.jpg     
 title: Bank Database
 permalink: 
 # All dates must be YYYY-MM-DD format!

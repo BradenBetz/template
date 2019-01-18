@@ -17,4 +17,4 @@ Our game was named "Asteroid Run" and it required the user to navigate an astero
 
 My job within the group was to create the spaceship object and get the spaceship object to move using the 'w', 'a', 's', and 'd'keys.  While it wasn't hard to create the object, integrating it with the main function and the asteroid object was difficult, but we managed to work out the kinks and get it to work.  This was the first time I was able to experience working in a team, and I learned that a team must function as one, and everyone within it must do their job to reach the final outcome.
 
-Source code - [Github] (https://github.com/bradenbetz/ICS-111-Final-Project.git)
+Source code - [Github](https://github.com/bradenbetz/ICS-111-Final-Project.git)

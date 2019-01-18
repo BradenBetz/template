@@ -7,7 +7,6 @@ permalink:
 # All dates must be YYYY-MM-DD format!
 date:
 labels:
-
 summary: Eagle Project for the Boy Scouts Of America
 ---
 

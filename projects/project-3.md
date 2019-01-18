@@ -5,7 +5,7 @@ image: bradenbetz.github.io/Project3.jpg
 title: Eagle Scout Project
 permalink: 
 # All dates must be YYYY-MM-DD format!
-date:
+date:  2015-09-15
 labels:
 summary: Eagle Project for the Boy Scouts Of America
 ---

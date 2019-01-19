@@ -11,7 +11,7 @@ labels:
 
 ## Experiencing Javascript for the first time
 
-<img class="ui centered image" src="../images/Anyone_notice_the_javascript.png">
+<img class="ui medium right floated rounded image" src="../images/Anyone_notice_the_javascript.png">
 
 Javascript will be the fourth programming language that I will be learning.  Already knowing Java, C, and C++ gave some comfort coming into Javascript.  I initially thought of the language as a more web-based, HTML looking code, but I was quickly proven wrong with the couple first assignments I was given on the language.  The syntax across Java, C, and C++ are extremely similar to Javascript, and I feel that Javascript language is even easier.  Variable assignment and declaration standards are laxer than I previously assumed.  For example, having the ability to use a variable that can store anything makes the project creation process much more smooth and less tedious in my opinion.
 

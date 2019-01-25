@@ -12,4 +12,4 @@ labels:
 
 
 
-<img class="ui medium right floated rounded image" src="../images/vfmiwm9.png">
+<img class="ui medium right floated rounded image" src="../images/vfmiwm9.jpg">

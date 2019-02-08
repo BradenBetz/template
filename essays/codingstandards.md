@@ -10,8 +10,8 @@ labels:
   - ESLint
 ---
 
-<img class="ui medium right floated rounded image" src="../images/k.png">
-
+<img class="ui medium right floated rounded image" src="../images/k.jpg"> 
+       
 ## Why does coding style matter?
 
 Upon taking on the journey that I Computer Science here at UH Manoa, one thing that was prevalent in every single ICS class that dealt with programming was Coding Style.  Before ICS 314 class, I always saw coding style as an effort from the Professor teaching the class to minus points from our programming projects.  About a month into ICS 314 the value that coding standards have hit me like a bus.  Back in ICS 212, we were given the usual talk about the class coding style, and how we had to follow it, and disregarding them would result in points taken off our grades.  One thing I was shown was examples of Coding Style's that different companies use, some being Google and Microsoft.  In ICS 314 it was made known that communication was key in Software Engineering.  After a bit of pondering, I was able to realize that Coding Style itself was another langauge that people within the same work enviorment, whether that be a big company or a college class, use to help communicate to each other.  In a specific work enviorment, having code that looks, flows, and works the same way as other code within that work enviorment can make it tremendously easier to communicate with others, and make it as easy as possible for others to understand what is trying to be accomplished, so they can work with or help debug said code.  Having a specific coding style also can change the way that code works.  For example, in my ICS 212 class which dealt with C and C++, it was taboo to use multiple return statements within a function, and it was part of the class coding style to have a single return statement.  In ICS 211, which delth with Java, it was perfectly ok to have multiple return statements, which often made writing functions a bit easier.  Having said that, coding style is extremely important as it not only makes it easier for code to be communicated within a work enviroment, but can also change the way code works and functions.

@@ -10,7 +10,7 @@ labels:
   - ESLint
 ---
 
-<img class="ui medium right floated rounded image" src="../images/Anyone_notice_the_javascript.png">
+<img class="ui medium right floated rounded image" src="../images/k.png">
 
 ## Why does coding style matter?
 

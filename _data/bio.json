@@ -2,10 +2,10 @@
 	"basics": {
 		"name": "Braden Betz",
 		"label": "Student",
-		"picture": "ProfilePic.jpg",
+		"picture": "https://bradenbetz.github.io/images/ProfilePic.jpg",
 		"email": "bradenb@hawaii.edu",
 		"phone": "808-237-9853",
-		"website": "https://bradenbetz.github.io/images/ProfilePic.jpg",
+		"website": "https://bradenbetz.github.io",
 		"summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii at Mānoa. I expect to graduate in Fall, 2021.",
 		"location": {
 			"address": "",

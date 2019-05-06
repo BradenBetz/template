@@ -5,7 +5,7 @@
 		"picture": "ProfilePic.jpg",
 		"email": "bradenb@hawaii.edu",
 		"phone": "808-237-9853",
-		"website": "https://bradenbetz.github.io",
+		"website": "https://bradenbetz.github.io/images/ProfilePic.jpg",
 		"summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii at Mānoa. I expect to graduate in Fall, 2021.",
 		"location": {
 			"address": "",
@@ -62,7 +62,7 @@
 	],
 	"education": [{
 		"institution": "University of Hawaii, Honolulu, HI",
-		"area": "Computer Science (expected Fall, 2019)",
+		"area": "Computer Science (expected Spring, 2021)",
 		"studyType": "B.A.",
 		"startDate": "2017-08-21",
 		"endDate": "Present",

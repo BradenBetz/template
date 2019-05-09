@@ -1,11 +1,11 @@
 ---
 layout: project
 type: project
-image: bradenbetz.github.io/Project1.jpg     
+image: bradenbetz.github.io/images/landing.png     
 title: UHManoasList
 permalink: 
 # All dates must be YYYY-MM-DD format!
-date: 2089-5-8
+date: 2019-5-8
 labels:
   - Javascript
   - Semantic UI

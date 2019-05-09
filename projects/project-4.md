@@ -5,7 +5,7 @@ image: bradenbetz.github.io/Project4.jpg
 title: UHManoasList
 permalink: 
 # All dates must be YYYY-MM-DD format!
-date: 2019-5-8
+date: 2019-05-08
 labels:
   - Javascript
   - Semantic UI

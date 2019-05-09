@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: bradenbetz.github.io/images/landing.png     
+image: bradenbetz.github.io/Project4.png     
 title: UHManoasList
 permalink: 
 # All dates must be YYYY-MM-DD format!

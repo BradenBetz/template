@@ -14,7 +14,7 @@ labels:
 summary: The final project for my ICS 314 class was to create an app with teams of three to four individuals.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/landing.jpg">
+<img class="ui medium right floated rounded image" src="/images/landing.png">
 
 ## Project Overview
 

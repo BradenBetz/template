@@ -2,7 +2,7 @@
 	"basics": {
 		"name": "Braden Betz",
 		"label": "Student",
-		"picture": "https://bradenbetz.github.io/images/ProfilePic.jpg",
+		"picture": "https://bradenbetz.github.io/images/Profile Pic.jpg",
 		"email": "bradenb@hawaii.edu",
 		"phone": "Phone number available upon request",
 		"website": "https://bradenbetz.github.io",
@@ -46,7 +46,7 @@
 				"C",
 				"C++",
 				"Java",
-				"Javascript (Learning)"
+				"Javascript"
 			]
 		},
 		{
@@ -66,15 +66,18 @@
 		"studyType": "B.A.",
 		"startDate": "2017-08-21",
 		"endDate": "Present",
-		"gpa": "3.25",
+		"gpa": "3.2",
 		"courses": [
-			"ICS 314",
-			"ICS 321",
-			"ICS 241",
-			"ICS 212",
-			"ICS 211",
-			"ICS 141",
-			"ICS 111"
+			"ICS 451 - Data Networks (Currently Enrolled)",
+			"ICS 332 - Operating Systems (Currently Enrolled)",
+			"ICS 311 - Algorithms",
+			"ICS 314 - Software Engineering",
+			"ICS 321 - Database Systems",
+			"ICS 241 - Discrete Math II",
+			"ICS 212 - Program Structure",
+			"ICS 211 - Introduction to Computer Science II",
+			"ICS 141 - Discrete Math I",
+			"ICS 111 - Introduction to Computer Science I"
 		]
 	}],
 	"work": [{

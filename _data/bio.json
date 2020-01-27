@@ -3,7 +3,7 @@
 		"name": "Braden Betz",
 		"label": "Student",
 		"picture": "https://bradenbetz.github.io/images/Profile Pic.jpg",
-		"email": "bradenb@hawaii.edu",
+		"email": "bradenbetz@gmail.com",
 		"phone": "Phone number available upon request",
 		"website": "https://bradenbetz.github.io",
 		"summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii at Mānoa. I expect to graduate in Spring, 2021.",
@@ -81,6 +81,13 @@
 		]
 	}],
 	"work": [{
+		"company": "Mililani Town Association",
+		"position": "Lifeguard",
+		"website": "https://www.mililanitown.org/",
+		"startDate": "2016-03-13",
+		"endDate": "2018-07-28",
+		"summary": "I was tasked with keeping pool patrons safe, while maintaining a Lifeguard skillset including CPR and First Aid and a professional attitude on the pool deck.",
+		
 		"company": "Mililani Town Association",
 		"position": "Lifeguard",
 		"website": "https://www.mililanitown.org/",

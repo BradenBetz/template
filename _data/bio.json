@@ -1,122 +1,122 @@
 {
-	"basics": {
-		"name": "Braden Betz",
-		"label": "Student",
-		"picture": "https://bradenbetz.github.io/images/Profile Pic.jpg",
-		"email": "bradenbetz@gmail.com",
-		"phone": "Phone number is available upon request",
-		"website": "https://bradenbetz.github.io",
-		"summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii at Mānoa. I expect to graduate in Spring, 2021.",
-		"location": {
-			"address": "",
-			"postalCode": "96789",
-			"city": "Mililani",
-			"countryCode": "USA",
-			"region": "Hawaii"
-		},
-		"profiles": [{
-				"network": "github",
-				"username": "bradenbetz",
-				"url": "http://github.com/bradenbetz"
-			},
-			{
-				"network": "linkedin",
-				"username": "bradenbetz",
-				"url": "https://www.linkedin.com/in/braden-betz-161355178/"
-			}
-		]
-	},
-	"interests": [{
-			"name": "Software Engineering",
-			"keywords": []
-		},
-		{
-			"name": "Defense Contracting",
-			"keywords": []
-		},
-		{
-			"name": "Artificial Intelligence",
-			"keywords": []
-		}
-	],
-	"skills": [{
-			"name": "Languages and Frameworks",
-			"level": "",
-			"keywords": [
-				"C",
-				"C++",
-				"Java",
-				"Javascript"
-			]
-		},
-		{
-			"name": "Toolsets/OS",
-			"level": "",
-			"keywords": [
-				"MacOS",
-				"Unix",
-				"GitHub",
-				"g++/gcc"
-			]
-		}
-	],
-	"education": [{
-		"institution": "University of Hawaii, Honolulu, HI",
-		"area": "Computer Science",
-		"studyType": "B.A.",
-		"startDate": "2017-08-21",
-		"endDate": "Present",
-		"gpa": "3.2",
-		"courses": [
-			"ICS 451 - Data Networks (Currently Enrolled)",
-			"ICS 332 - Operating Systems (Currently Enrolled)",
-			"ICS 311 - Algorithms",
-			"ICS 314 - Software Engineering",
-			"ICS 321 - Database Systems",
-			"ICS 241 - Discrete Math II",
-			"ICS 212 - Program Structure",
-			"ICS 211 - Introduction to Computer Science II",
-			"ICS 141 - Discrete Math I",
-			"ICS 111 - Introduction to Computer Science I"
-		]
-	}],
-	"work": [
-	{
-		"company": "Mililani Town Association",
-		"position": "Lifeguard",
-		"website": "https://www.mililanitown.org/",
-		"startDate": "2016-03-13",
-		"endDate": "2018-07-28",
-		"summary": "I was tasked with keeping pool patrons safe and enforcing pool rules, while maintaining a Lifeguard skillset including but not limited to, CPR and First Aid and a professional attitude on the pool deck.  I had to work with 2-3 other lifeguards and even alone during evening hours to make sure the pool ran in accordance to the standards that were set for us. ",
-		"highlights": [
-        	"I was able to apply the training I recieved outside of this job.",
-        	"Firsthand experience working with a team to keep peoples lives safe."
-      		]
-		
-	    	
-	},
-	    {
-		"company": "Special Olympics Hawaii",
-		"position": "Track and Field Official",
-		"website": "http://sohawaii.org/",
-		"startDate": "2017",
-		"endDate": "2019",
-		"summary": "I was required to work with a team of different individuals during various Track and Field events to ensure that each event ran smoothly and was as fair as possible to all the competitors.  I either to keep track of one competitor or a team of competitors during the 100 meter dash or 400 meter relay, and accurately log the time down and record it with another official.",
-		"highlights": [
-        	"I had to be very precise when I was timing the events, because my times would ultimantly be used to determine the winners for each event.",
-		"I gained valuble and humbling experience when interacting with different types of people due to the nature of Special Olympics."
-      		]
-	    
-	  }
+    "basics": {
+        "name": "Braden Betz",
+        "label": "Student",
+        "picture": "https://bradenbetz.github.io/images/Profile Pic.jpg",
+        "email": "bradenbetz@gmail.com",
+        "phone": "Phone number is available upon request",
+        "website": "https://bradenbetz.github.io",
+        "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii at Mānoa. I expect to graduate in Spring, 2021.",
+        "location": {
+            "address": "",
+            "postalCode": "96789",
+            "city": "Mililani",
+            "countryCode": "USA",
+            "region": "Hawaii"
+        },
+        "profiles": [{
+                "network": "github",
+                "username": "bradenbetz",
+                "url": "http://github.com/bradenbetz"
+            },
+            {
+                "network": "linkedin",
+                "username": "bradenbetz",
+                "url": "https://www.linkedin.com/in/braden-betz-161355178/"
+            }
+        ]
+    },
+    "interests": [{
+            "name": "Software Engineering",
+            "keywords": []
+        },
+        {
+            "name": "Defense Contracting",
+            "keywords": []
+        },
+        {
+            "name": "Artificial Intelligence",
+            "keywords": []
+        }
+    ],
+    "skills": [{
+            "name": "Languages and Frameworks",
+            "level": "",
+            "keywords": [
+                "C",
+                "C++",
+                "Java",
+                "Javascript"
+            ]
+        },
+        {
+            "name": "Toolsets/OS",
+            "level": "",
+            "keywords": [
+                "MacOS",
+                "Unix",
+                "GitHub",
+                "g++/gcc"
+            ]
+        }
+    ],
+    "education": [{
+        "institution": "University of Hawaii, Honolulu, HI",
+        "area": "Computer Science",
+        "studyType": "B.A.",
+        "startDate": "2017-08-21",
+        "endDate": "Present",
+        "gpa": "3.2",
+        "courses": [
+            "ICS 451 - Data Networks (Currently Enrolled)",
+            "ICS 332 - Operating Systems (Currently Enrolled)",
+            "ICS 311 - Algorithms",
+            "ICS 314 - Software Engineering",
+            "ICS 321 - Database Systems",
+            "ICS 241 - Discrete Math II",
+            "ICS 212 - Program Structure",
+            "ICS 211 - Introduction to Computer Science II",
+            "ICS 141 - Discrete Math I",
+            "ICS 111 - Introduction to Computer Science I"
+        ]
+    }],
+    "work": [
+    {
+        "company": "Mililani Town Association",
+        "position": "Lifeguard",
+        "website": "https://www.mililanitown.org/",
+        "startDate": "2016-03-13",
+        "endDate": "2018-07-28",
+        "summary": "I was tasked with keeping pool patrons safe and enforcing pool rules, while maintaining a Lifeguard skillset including but not limited to, CPR and First Aid and a professional attitude on the pool deck.  I had to work with 2-3 other lifeguards and even alone during evening hours to make sure the pool ran by the standards that were set for us. ",
+        "highlights": [
+            "I was able to apply the training I received outside of this job.",
+            "Firsthand experience working with a team to keep people's lives safe."
+              ]
+        
+            
+    },
+        {
+        "company": "Special Olympics Hawaii",
+        "position": "Track and Field Official",
+        "website": "http://sohawaii.org/",
+        "startDate": "2017",
+        "endDate": "2019",
+        "summary": "I was required to work with a team of different individuals during various Track and Field events to ensure that each event ran smoothly and was as fair as possible to all the competitors.  I either to keep track of one competitor or a team of competitors during the 100-meter dash or 400-meter relay and accurately log the time down and record it with another official.",
+        "highlights": [
+            "The times I recorded would ultimately be used to determine the winners for each event, so to ensure fairness.",
+        "I gained valuable and humbling experience when interacting with different types of people due to the nature of the Special Olympics."
+              ]
+        
+      }
          ],
-	"awards": [{
-	"title": "Eagle Scout",
-	"date": "November 2015",
-	"awarder": "Boy Scouts Of America",
-	"summary": "Eagle Scout is the highest achievement or rank attainable in the Boy Scouting program of the Boy Scouts of America. The designation 'Eagle Scout' was founded over one hundred years ago. Only four percent of Boy Scouts are granted this rank after a lengthy review process."
-	}],
-	"references": [{
-		"name": "Available upon request",
-		"reference": ""
-	}]
+    "awards": [{
+    "title": "Eagle Scout",
+    "date": "November 2015",
+    "awarder": "Boy Scouts Of America",
+    "summary": "Eagle Scout is the highest achievement or rank attainable in the Boy Scouting program of the Boy Scouts of America. The designation 'Eagle Scout' was founded over one hundred years ago. Only four percent of Boy Scouts are granted this rank after a lengthy review process."
+    }],
+    "references": [{
+        "name": "Available upon request",
+        "reference": ""
+    }]
 }

@@ -64,9 +64,9 @@
         "institution": "University of Hawaii, Honolulu, HI",
         "area": "Computer Science",
         "studyType": "B.A.",
-        "gpa": "3.2",
         "startDate": "2017-08-21",
         "endDate": "Present",
+        "gpa": "3.2",
         "courses": [
             "ICS 451 - Data Networks (Currently Enrolled)",
             "ICS 332 - Operating Systems (Currently Enrolled)",

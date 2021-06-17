@@ -103,10 +103,18 @@
       "summary": "Eagle Scout is the highest achievement or rank attainable in the Boy Scouting program of the Boy Scouts of America."
     }
   ],
-  "references": [
+    "interests": [
     {
-      "name": "  Available upon request",
-      "reference": ""
+      "name": "Software Engineering",
+      "keywords": []
+    },
+    {
+      "name": "Blockchains",
+      "keywords": []
+    },
+    {
+      "name": "Cryptocurrencies/NFTs",
+      "keywords": []
     }
-  ]
+  ],
 }

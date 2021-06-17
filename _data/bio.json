@@ -6,7 +6,7 @@
     "email": "bradenbetz@gmail.com",
     "website": "https://bradenbetz.github.io",
     "summary": "B.A. in Information and Computer Sciences from the University Of Hawaii at Manoa.",
-    "phone": "Phone number is available upon request",
+    "phone": "808-237-9853",
     "location": {
       "address": "",
       "postalCode": "96789",
@@ -27,18 +27,45 @@
       }
     ]
   },
-  "interests": [
+    "education": [
     {
-      "name": "Software Engineering",
-      "keywords": []
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Information and Computer Sciences",
+      "studyType": "BA.",
+      "startDate": "2017-08-21",
+      "endDate": "2021",
+      "gpa": "3.2"
+    }
+  ],
+      "work": [
+    {
+      "company": "Mililani Town Association",
+      "position": "Lifeguard",
+      "startDate": "March 2016",
+      "endDate": "June 2018",
+      "highlights": [
+        "Worked with other Lifeguards to facilitate a protective environment by enforcing the required safety protocols ",
+        "Assess the pool and jacuzzi chemical levels and adjust with chlorine as needed"
+      ]
     },
     {
-      "name": "Blockchains",
-      "keywords": []
+      "company": "University of Hawaii Information Technology Services",
+      "position": "Help Desk Consultant",
+      "startDate": "March 2020",
+      "endDate": "November 2020",
+      "highlights": [
+        "Answer phone and email responses to the ITS Help Desk and troubleshoot software, hardware, and networking issues over the phone",
+        "Add and update data into the support call tracking system and monitor network operations"
+      ]
     },
     {
-      "name": "Cryptocurrencies/NFTs",
-      "keywords": []
+      "company": "University of Hawaii Information and Computer Sciences",
+      "position": "Assistant Teaching Assistant",
+      "startDate": "August 2020",
+      "endDate": "December 2020",
+      "highlights": [
+        "As part of the ICS 390 course, instructed one week of classes using self-assembled teaching material and coordinated weekly lab sessions to help students with Java programming assignments",
+      ]
     }
   ],
   "skills": [
@@ -49,7 +76,12 @@
         "C",
         "C++",
         "Java",
-        "Javascript"
+        "Javascript",
+        "HTML",
+        "CSS",
+        "React",
+        "Meteor",
+        "Semantic UI"
       ]
     },
     {
@@ -63,60 +95,12 @@
       ]
     }
   ],
-  "education": [
-    {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Information and Computer Sciences",
-      "studyType": "BA.",
-      "startDate": "2017-08-21",
-      "endDate": "Present",
-      "gpa": "3.2",
-      "courses": [
-        "ICS 451 - Data Networks (Currently Enrolled)",
-        "ICS 332 - Operating Systems (Currently Enrolled)",
-        "ICS 311 - Algorithms",
-        "ICS 314 - Software Engineering",
-        "ICS 321 - Database Systems",
-        "ICS 241 - Discrete Math II",
-        "ICS 212 - Program Structure",
-        "ICS 211 - Introduction to Computer Science II",
-        "ICS 141 - Discrete Math I",
-        "ICS 111 - Introduction to Computer Science I"
-      ]
-    }
-  ],
-  "work": [
-    {
-      "company": "Mililani Town Association",
-      "position": "Lifeguard",
-      "website": "https://www.mililanitown.org/",
-      "startDate": "2016-03-13",
-      "endDate": "2018-07-28",
-      "summary": "I was tasked with keeping pool patrons safe and enforcing pool rules, while maintaining a Lifeguard skillset including but not limited to, CPR and First Aid and a professional attitude on the pool deck.  I had to work with 2-3 other lifeguards and even alone during evening hours to make sure the pool ran by the standards that were set for us. ",
-      "highlights": [
-        "I was able to apply the training I received in a real life scenario.",
-        "Firsthand experience working with a team to keep people's lives safe."
-      ]
-    },
-    {
-      "company": "Special Olympics Hawaii",
-      "position": "Track and Field Official",
-      "website": "http://sohawaii.org/",
-      "startDate": "2017",
-      "endDate": "2019",
-      "summary": "I was required to work with a team of different individuals during various Track and Field events to ensure that each event ran smoothly and was as fair as possible to all the competitors.  I either to keep track of one competitor or a team of competitors during the 100-meter dash or 400-meter relay.",
-      "highlights": [
-        "The times I recorded would ultimately be used to determine the winners for each event, so to ensure fairness, so I had to be spot on when timing.",
-        "I gained valuable and humbling experience when interacting with different types of people due to the nature of the Special Olympics."
-      ]
-    }
-  ],
   "awards": [
     {
       "title": "Eagle Scout",
       "date": "November 2015",
       "awarder": "Boy Scouts Of America",
-      "summary": "Eagle Scout is the highest achievement or rank attainable in the Boy Scouting program of the Boy Scouts of America. The designation 'Eagle Scout' was founded over one hundred years ago. Only four percent of Boy Scouts are granted this rank after a lengthy review process."
+      "summary": "Eagle Scout is the highest achievement or rank attainable in the Boy Scouting program of the Boy Scouts of America."
     }
   ],
   "references": [

@@ -30,15 +30,15 @@
   "interests": [
     {
       "name": "Software Engineering",
-      "keywords": [Gemini, Coinbase, Kraken]
+      "keywords": []
     },
     {
       "name": "Blockchains",
-      "keywords": [Ethereum, Bitcoin]
+      "keywords": []
     },
     {
       "name": "Cryptocurrencies/NFTs",
-      "keywords": [MATIC, Art, Nifty]
+      "keywords": []
     }
   ],
   "skills": [

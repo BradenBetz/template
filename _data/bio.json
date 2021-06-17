@@ -5,7 +5,7 @@
     "picture": "https://bradenbetz.github.io/images/Profile Pic.jpg",
     "email": "bradenbetz@gmail.com",
     "website": "https://bradenbetz.github.io",
-    "summary": "B.A. in Information and Computer Sciences from the University Of Hawaii at Manoa.",
+    "summary": "As a graduate with a degree in Information and Computer Sciences, I am looking to obtain a role in the Software Engineering industry here in Hawaii or remotely to a company on the mainland. My current interests within the field include full-stack development, blockchain development, and cryptocurrency/NFT exchange development.",
     "phone": "808-237-9853",
     "location": {
       "address": "",
@@ -101,20 +101,6 @@
       "date": "November 2015",
       "awarder": "Boy Scouts Of America",
       "summary": "Eagle Scout is the highest achievement or rank attainable in the Boy Scouting program of the Boy Scouts of America."
-    }
-  ],
-    "interests": [
-    {
-      "name": "Software Engineering",
-      "keywords": []
-    },
-    {
-      "name": "Blockchains",
-      "keywords": []
-    },
-    {
-      "name": "Cryptocurrencies/NFTs",
-      "keywords": []
     }
   ],
 }

@@ -1,7 +1,6 @@
 ---
 layout: project
 type: project
-image: bradenbetz.github.io/Project2.jpg           
 title: Asteroid Run
 permalink: 
 # All dates must be YYYY-MM-DD format!

@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: bradenbetz.github.io/Project4.jpg     
+image: /images/landing copy.png
 title: Project Malama
 permalink: 
 # All dates must be YYYY-MM-DD format!

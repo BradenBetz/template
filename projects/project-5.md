@@ -1,7 +1,6 @@
 ---
 layout: project
 type: project
-image: /images/landing copy.png
 title: Project Malama
 permalink: 
 # All dates must be YYYY-MM-DD format!

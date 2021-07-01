@@ -10,7 +10,7 @@ labels:
   - Flask
   - Postman
   - Cryptocurrency
-summary: A personal endevour I took to learn about Blockchains on a more technical level
+summary: A personal endevour I took to learn about Blockchains, Python, and Flask on a more technical level.
 ---
 ## Project Overview
 

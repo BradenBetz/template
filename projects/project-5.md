@@ -14,9 +14,9 @@ labels:
 summary: The final project for my ICS 414 class was to create an Greenhouse Gas tracker for Hawaiian Electric.
 ---
 
-<img class="ui centered image" src="bradenbetz.github.io/landing.png">
-<img class="ui centered image" src="bradenbetz.github.io/Login.png">
-<img class="ui centered image" src="bradenbetz.github.io/Profile.png">
+<img class="ui centered image" src="/images/landing copy.png">
+<img class="ui centered image" src="/images/Login.png">
+<img class="ui centered image" src="/images/Profile.png">
 
 
 ## Project Overview

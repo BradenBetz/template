@@ -1,7 +1,6 @@
 ---
 layout: project
 type: project
-image: /images/Project4.png     
 title: UHManoasList
 permalink: 
 # All dates must be YYYY-MM-DD format!

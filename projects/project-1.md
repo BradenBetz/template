@@ -1,7 +1,6 @@
 ---
 layout: project
 type: project
-image: bradenbetz.github.io/Project1.jpg     
 title: Bank Database
 permalink: 
 # All dates must be YYYY-MM-DD format!
@@ -10,6 +9,8 @@ labels:
   - C++
 summary: The big project for ICS 212 was to create a Bank Database that utilized a linked list to store different records, containing an Address, Account Number and Name
 ---
+
+<img class="ui centered image" src="/images/Project1.jpg">
 
 For this project, we were required to create a Bank database using the linked list data structure.  The database was required to have a friendly user interface, as well as the ability to hold different bank records that contain a name, address, and account number.
 

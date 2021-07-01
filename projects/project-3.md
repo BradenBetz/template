@@ -1,7 +1,6 @@
 ---
 layout: project
 type: project
-image: bradenbetz.github.io/Project3.jpg     
 title: Eagle Scout Project
 permalink: 
 # All dates must be YYYY-MM-DD format!
@@ -9,6 +8,7 @@ date:  2015-09-15
 labels:
 summary: Eagle Project for the Boy Scouts Of America
 ---
+<img class="ui centered image" src="/images/Project3.jpg">
 
 One project that is not related to Computer Science was my eagle project that was done to obtain the rank of Eagle Scout.  My project consisted of the repainting and cleaning of several hatches that served as different access points on the U.S.S Missouri, as well as a berthing room.  All of these points were areas on the ship that were frequented by visitors to the memorial.
 

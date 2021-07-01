@@ -1,7 +1,6 @@
 ---
 layout: project
 type: project
-image: bradenbetz.github.io/Project2.jpg           
 title: Asteroid Run
 permalink: 
 # All dates must be YYYY-MM-DD format!
@@ -10,6 +9,9 @@ labels:
   - Java
 summary: For the final project for ICS 111, I was placed into a group with two other individuals to create a game based on all the content we learned through the semester.  
 ---
+
+<img class="ui centered image" src="/images/Project2.jpg">
+
 
 For ICS 111, I was put into a group with two other individuals, Caelan Barut and Marcus Buccat.  We were tasked with creating a game based on all the Java content we learned throughout the semester.
 
